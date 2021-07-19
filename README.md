@@ -6,3 +6,12 @@ Second, utilized the DxSale protocol to foster trust in the community by auto-lo
 Simple tokenomics and elegant design and production of token information has catered to the overall success of the project.
 100% community owned and driven - no rug is possible. 
 #safemoon join us on our journey safely to the moon!
+
+
+   3% fee auto add to the liquidity pool to locked forever when selling
+   2% fee auto distribute to all holders
+   I created a black hole so #Bee token will deflate itself in supply with every transaction
+   50% Supply is burned at start.
+ 
+ 
+ prix 0.033396 BNB ( 8, 40 €)
